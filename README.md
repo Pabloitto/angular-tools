@@ -5,7 +5,7 @@
 2.- bower install
 
 3.- gulp init
-    Put the name of your app
+    - put the name of your app
     
 4.- gulp start
 
