@@ -12,8 +12,11 @@
 
 ----------
 COMMANDS
-gulp component
-gulp controller
-gulp service
-gulp directive
+- gulp component
+
+- gulp controller
+
+- gulp service
+
+- gulp directive
 
